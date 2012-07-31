@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cloudstack',
-    version='0.1',
+    version='0.1.1',
     author='Virtual Deployment Team',
     author_email='martijn@fourdigits.nl',
     url='https://github.dtc.avira.com/VDT/python-cloudstack',
